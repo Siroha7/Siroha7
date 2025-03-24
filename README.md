@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate with developers who can help me learn kernel compilation from scratch.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love experiments
-- 📫 How to reach me:
-• Telegram: t.me/Shiroyuki7
+- 📫 How to reach me: t.me/Shiroyuki7
 
 <!---
 Siroha7/Siroha7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
